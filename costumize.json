@@ -1,1 +1,18 @@
 
+{
+    "Name": "TailorCSS",
+    "Authors":"",
+
+    "Version": "",
+    
+    "Costumize": {
+        "Primary":"Red",
+        "icons":"blue",
+        "style":"Classic",
+        "footer":"classic",
+        "navbar":"classic",
+        "animations":"true"
+    }
+        
+
+}
