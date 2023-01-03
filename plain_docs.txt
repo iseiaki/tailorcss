@@ -1,0 +1,3 @@
+I created main.go file in order to interact with costumize.json. main goal for it is to get data from json and then modify css or add already ready-to-go component to html
+for now all it does it to get data from .json file. Will add more detailed documentation soon
+for testing you could clone the repo, install golang on your machine and write "go run main.go" in terminal
