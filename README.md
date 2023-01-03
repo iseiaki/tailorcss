@@ -1,3 +1,3 @@
-# tailorcss
+# Tailorcss
 
 <h3>* Welcome to TailorCSS *</h3> the framework that makes it easier to tailor your own stylization grid and flex positioning to ensure pixel perfect, responsive, and good style principles are used. TailorCSS allows you to create a custom grid and flex positions for your webpages, allowing you to fine-tune the design for perfect responsiveness and style. Additionally, TailorCSS offers advanced features such as auto-sizing and scoping that make it easy to create the perfect grid for your design. With TailorCSS, you can be confident that your designs will be pixel-perfect, responsive, and good style principles will be used.
