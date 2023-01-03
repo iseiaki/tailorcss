@@ -1,10 +1,10 @@
 {
     "Name": "TailorCSS",
-    "Authors":"",
+    "Authors":"Mirian, Andreas",
 
-    "Version": "",
+    "Version": "1.0",
     
-    "Costumize": {
+    "maincss": {
         "Primary":"Red",
         "icons":"blue",
         "style":"Classic",
@@ -13,18 +13,20 @@
         "animations":"true"
     },
     "Display": {
-        "Grid": "grid",
-        "Flex": "flex",
-        "Block": "block",
-        "InlineB": "inline-block"
+        "Grid": "false",
+        "Flex": "false",
+        "Block": "true",
+        "InlineB": "false"
     }, 
     "Justify-Content": {
-    "center" : "center",
-    "space-around": "space-around",
-    "space-between": "space-between",
-    "space-evenly": "space-evenly", 
-    "flex-end": "flex-end",
-    "flex-start": "flex-start"
+    "center" : "false",
+    "space-around": "false",
+    "space-between": "false",
+    "space-evenly": "false", 
+    "flex-end": "false",
+    "flex-start": "false"
 }
-
-}
+      // what you think if we assigned true or false values to these keys and then javascript was to read it and change css file depending on that?
+      // so for example if user wanted to costumize an element even more they would just change let's take "flex" for example and set its value to true
+      // sounds little bit complex I know but I'll try to write down a detailed plan how we can achieve it
+} 
