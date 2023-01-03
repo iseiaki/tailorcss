@@ -1,1 +1,31 @@
+{
+    "Name": "TailorCSS",
+    "Authors":"",
+
+    "Version": "",
+    
+    "Costumize": {
+        "Primary":"Red",
+        "icons":"blue",
+        "style":"Classic",
+        "footer":"classic",
+        "navbar":"classic",
+        "animations":"true"
+    },
+    "Display": {
+        "Grid": "grid",
+        "Flex": "flex",
+        "Block": "block",
+        "InlineB": "inline-block"
+    }, 
+    "Justify-Content": {
+    "center" : "center",
+    "space-around": "space-around",
+    "space-between": "space-between",
+    "space-evenly": "space-evenly", 
+    "flex-end": "flex-end",
+    "flex-start": "flex-start"
+}
+
+}
 
