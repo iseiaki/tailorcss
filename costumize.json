@@ -29,4 +29,8 @@
       // what you think if we assigned true or false values to these keys and then javascript was to read it and change css file depending on that?
       // so for example if user wanted to costumize an element even more they would just change let's take "flex" for example and set its value to true
       // sounds little bit complex I know but I'll try to write down a detailed plan how we can achieve it
-} 
+
+
+      // Or another thing is that we could make costumize.json little bit more general. for example not to include center, grid, flex or other stuff
+      // and for now to only let user costumize primary colors for example, or let them use a prebuilt navbar after changing "Prebuilt-navbar": value to true.
+    } 
