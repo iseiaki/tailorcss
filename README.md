@@ -7,7 +7,7 @@
 OS X & Linux:
 
 ```sh
-npm install my-crazy-module --save
+npm install tailorcss --save
 ```
 
 Windows:
