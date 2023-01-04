@@ -1,16 +1,14 @@
 {
     "Name": "TailorCSS",
     "Authors":"Mirian, Andreas",
-
     "Version": "1.0",
-    
+
     "htmlfile": "index.html",
+    "title": "Tester Website",
     "maincss": {
         "Primary":"Red",
         "icons":"blue",
         "style":"Classic",
-        "footer":"classic",
-        "navbar":"classic",
         "animations":"true"
     },
     "Display": {
@@ -19,12 +17,28 @@
         "Block": "true",
         "InlineB": "false"
     }, 
-    "Justify-Content": {
-    "center" : "false",
-    "space-around": "false",
-    "space-between": "false",
-    "space-evenly": "false", 
-    "flex-end": "false",
-    "flex-start": "false"
+
+    "Prebuilt-elements": {
+
+    "navbar": {
+        "content": "link",
+        "links": "3",
+        "navbarclass": "navbari",
+        "elementclass": "hellonibba",
+        "display": "flex",
+        "justify-content": "space-around",
+        "position": "relative",
+        "background-color": "black"
+    },
+    "footer": {
+        "links": "3",
+        "display": "flex",
+        "justify-content": "space-around",
+        "position": "relative",
+        "background-color": "black"
+    }
+
 }
+
+
     } 
